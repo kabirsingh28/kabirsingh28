@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **ReactJS, DSA**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-kabir-singh.netlify.app/](https://portfolio-kabir-singh.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-kabir-singh.netlify.app/)
 
 - 💬 Ask me about **Web development, DSA**
 
 - 📫 How to reach me **7darkshades@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/exCMN](shorturl.at/exCMN)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1U3agU-ipTVXJNcbgRAF1aTHDs-v1Ij8i/view?usp=sharing)
 
 - ⚡ Fun fact **I am a basketball player who loves still life painting**
 
